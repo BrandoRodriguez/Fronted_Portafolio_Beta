@@ -624,7 +624,7 @@ header.header.sticky {
     overflow: hidden;
 }
 .portfolio-section .overlay{
-    background: rgba(20, 21, 25, 0.90);
+    background: rgba(20, 21, 25, 0.85);
 }
 .portfolio-section .shape {
     position: absolute;
